@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет! Меня зовут Ян👋
+Я начинающий Python-разработчик. Знаком с бэкендом, инфраструктурой, также начал изучать фронтэнд.
 
-<!--
-**Kik0man/Kik0man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Немного обо мне
+- 🔭 Сейчас совмещаю основуню работу вместе с собственными небольшими pet-проектами на Python
+- 🌱 Изучаю: Bootstrap, Python, английский (B1 → B2), Docker, PostgreSQL
+- 💬 Люблю чистый код и понятные код
 
-Here are some ideas to get you started:
+## 🛠 Мои навыки
+- Языки: Python
+- Базы данных: PostgreSQL
+- Технологии: REST API, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Проекты
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| [habit_tracker](https://github.com/Kik0man/habit_tracker) | API-сервис для формирования и отслеживания полезных привычек с напоминаниями и системой вознаграждений | Django, DRF, Celery, PostgreSQL, Telegram Bot API |
+| [restaurant_booking](https://github.com/Kik0man/restaurant_booking) | Веб-приложение для онлайн-бронирования столиков с календарем доступного времени и управлением заказами |  Django, DRF, PostgreSQL, Docker, Bootstrap |
+| [Second_project_HH](https://github.com/Kik0man/Second_project_HH) | Парсер вакансий с HeadHunter и других агрегаторов, с сохранением и анализом данных | Python, PostgreSQL, OOP, REST API |
+
+## 📫 Связаться со мной
+- Telegram: https://web.telegram.org/k/#@pokachelo
+- Email: yanhok2001@gmail.com
